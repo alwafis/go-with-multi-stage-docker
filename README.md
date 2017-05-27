@@ -34,7 +34,7 @@ run `docker-compose build` then `docker-compose up` from your terminal inside `{
 ## Size Comparison
 run `docker images` and data bellow will appear
 
-| REPOSITORY        | TAG           | IMAGE  | ID           | CREATED  | SIZE |
-| ------------- |:-------------:|:-------------:| -----:|:-------------:| -----:|-----:|
+| REPOSITORY        | TAG           | IMAGE  | ID           | CREATED  | SIZE |<br>
+| ------------- | ------------- | ------------- | ----- | ------------- | ----- |----- |
 | deployment_image      | latest | 1e065ab4f082 | - | 6 minutes ago | 5.83MB |
-| builder_image      | <none>      |  b199d5e3483e | centered      |   6 minutes ago |   261MB |
+| builder_image      | -      |  b199d5e3483e | centered      |   6 minutes ago |   261MB |
